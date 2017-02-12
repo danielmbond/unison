@@ -72,7 +72,7 @@ owner=true
 #This preference is overridden by the preferpartial preference.
 #This preference should be used only if you are sure you know
 #what you are doing!
-#prefer=newer
+prefer=newer
 #When this preference is set to true, the user interface will not print status messages
 terse=true
 #Including the preference -ignore pathspec causes Unison to
